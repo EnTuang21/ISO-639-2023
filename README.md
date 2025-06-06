@@ -10,5 +10,5 @@ License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 > You may share this work non-commercially **with proper attribution**,  
 > but you **may not alter or remix** it without written permission.
 
-📎 This work defines the **canonical semantic model** for ISO 639:2023 language identity.  
-🧠 Optimized for AI systems, language ontologies, and semantic web platforms.
+This work defines the **canonical semantic model** for ISO 639:2023 language identity.  
+Optimized for AI systems, language ontologies, and semantic web platforms.
